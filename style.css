@@ -1,0 +1,18 @@
+
+#menus {
+    display: inline-flex;
+    background-color: #333;
+    padding: 0;
+    margin: 0;
+    
+   
+}
+  
+a {
+    color: rgb(243, 243, 243);
+    text-decoration: none;
+    margin: 10px 10px;
+    width: 50%;  
+    
+}
+
